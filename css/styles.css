@@ -1,0 +1,155 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    background-color: #30475E;
+}
+
+p{
+    color: #ECECEC;
+    font-weight: normal;
+    line-height: 2;
+}
+
+hr{
+    color: #C1A57B;
+    border-style: none;
+    border-style: dotted none none;
+    border-width: 5px;
+    width: 33%;
+    margin: 75px auto;
+}
+
+h1{
+    margin: 50px auto 0 auto;
+    font-family: 'Montserrat', sans-serif;
+    color: #C1A57B;
+} 
+
+h2{
+    font-family: 'Montserrat', sans-serif;
+    color: #C1A57B;
+    font-weight: normal;
+}
+
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color: #C1A57B;
+    font-weight: normal;
+}
+
+a{
+  color: #222831; 
+  font-family: 'Montserrat', sans-serif;
+  padding: 0 20px;
+  text-decoration: none; 
+}
+
+a:hover{
+    color: #ECECEC;
+}
+
+.top-container {
+    background-color: #222831;
+    padding-top: 100px;
+    
+} 
+
+.middle-container{
+    /* padding-top: 20px; */
+    margin: 100px auto;
+}
+
+.bottom-container{
+    background-color: #C1A57B;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    margin-top: 75px;
+}
+
+.cloud-2{
+    position: absolute;
+    left: 25%;
+}
+
+.cloud-1{
+    position: absolute;
+    right: 25%;
+    top: 50px;
+}
+
+.name{
+    color: #ECECEC;
+    font-family: 'MonteCarlo', cursive;
+    font-size: 5.625rem;
+}
+
+.heading{
+    color: #ECECEC;
+    font-size: 1.875rem;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+}
+
+.Adam{
+    border-radius: 100%;
+    height: 250px;
+    width: 250px;
+}
+
+.code-gif{
+    height: 250px;
+    width: 250px;
+    float: left;
+    margin-right: 30px;
+}
+
+.tkd-uniform{
+    height: 250px;
+    width: 250px;
+    float: right;
+    margin-right: 30px;
+   
+}
+
+.skill-row{
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+}
+
+.profile{
+    width: 80%;
+    margin: auto;
+}
+
+.btn {
+    -webkit-border-radius: 9;
+    -moz-border-radius: 9;
+    border-radius: 9px;
+    font-family: 'Montserrat', sans-serif;
+    color: #222831;
+    font-size: 20px;
+    background: #C1A57B;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+}
+  
+  .btn:hover {
+    background: #ECECEC;
+    text-decoration: none;
+    color: #222831;
+  }
+
+.contact-me-text{
+    margin-bottom: 50px;
+}
+
+.intro{
+    width: 50%;
+    margin: 0 auto;
+}
+
+.copyright{
+    font-size: .75rem;
+}
